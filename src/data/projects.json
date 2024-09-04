@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Twitter Follow Card",
+    "imageSrc": "projects/Twitter-follow-card.png",
+    "description": "This project is an aesthetic clone of what the views of following or unfollowing Twitter users look like.",
+    "skills": ["React", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/tcmatias93/Twitter-follow-card"
   },
   {
     "title": "Project A",
