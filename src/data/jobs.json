@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Front-end developer",
+    "organisation": "HLS GROUP",
+    "startDate": "Apr. 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Mobile app development with react-native",
+      "Provide maintenance on the website."
+    ],
+    "imageSrc": "jobs/hlsGroupLogo.jpeg"
+  },
+  {
+    "role": "Junior web developer",
+    "organisation": "Ventiapp",
+    "startDate": "Sep. 2022",
+    "endDate": "Apr. 2024",
+    "experiences": [
+      "Maintain and improve the website",
+      "Maintain and improve the mobile app",
+      "Desarrollo de tiendas de comercio electrónico con Shopify"
+    ],
+    "imageSrc": "jobs/ventiappLogo.jpeg"
+  },
+  {
+    "role": "eCommerce development",
+    "organisation": "Digital House",
+    "startDate": "Jan. 2022",
+    "endDate": "Aug. 2022",
+    "experiences": [
+      "Planning and the Transformation of web designs into functional web components",
+      "Form validations",
+      "Use of APIs",
+      "Coordinate meetings with the team and carry out planning of the project."
+    ],
+    "imageSrc": "jobs/digitalhousLogo.jpeg"
+  }
+]
