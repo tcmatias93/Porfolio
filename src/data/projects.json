@@ -8,20 +8,20 @@
     "source": "https://github.com/tcmatias93/Twitter-follow-card"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Tic Tac Toe",
+    "imageSrc": "projects/Tic-Tac-Toe.png",
+    "description": "ta-te-ti or tic-tac-toe game with local memory persistence.",
+    "skills": ["React", "Javascript"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/tcmatias93/tic-tac-toe"
   },
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Todo",
+    "imageSrc": "projects/Todo.png",
+    "description": "project where you can create edit and delete tasks.",
+    "skills": ["React", "CSS", "Redux"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/tcmatias93/Todo"
   },
   {
     "title": "Project A",
